@@ -57,7 +57,7 @@
     "supertest": "*",
     "ts-node": "^8.0.3",
     "tslint": "^5.14.0",
-    "typescript-eslint-parser": "^22.0.0",
+    "typescript-eslint-parser": "^21.0.2",
     "uuid": "^2.0.1"
   },
   "scripts": {
